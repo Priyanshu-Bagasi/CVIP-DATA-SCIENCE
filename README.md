@@ -5,3 +5,4 @@ CODERCAVE Phase 1 Project
 
 Phase 2 Project
 1. Email Spam Detection Using Machine Learning (Dataset-https://drive.google.com/file/d/19fVvYOk1-C8NI_m0xfSwjdhF3oNCKcYM/view?usp=sharing)
+2. Speech Emotion Recognition (Dataset- https://drive.google.com/file/d/19fVvYOk1-C8NI_m0xfSwjdhF3oNCKcYM/view?usp=sharing)
